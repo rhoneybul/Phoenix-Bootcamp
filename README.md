@@ -1,4 +1,8 @@
-# Discuss
+# Phoenix Bootcamp
+
+This application was created for a udemy course, which taught how to use the phoenix framework for web develpment.
+
+## Getting Started.
 
 To start your Phoenix app:
 
